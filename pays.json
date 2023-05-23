@@ -1,0 +1,973 @@
+[
+	{
+		"Lettre": "A",
+		"Pays": "Afghanistan",
+		"Capitale": "Kaboul"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Afrique du sud",
+		"Capitale": "Pretoria"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Albanie",
+		"Capitale": "Tirana"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Algerie",
+		"Capitale": "Alger"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Allemagne",
+		"Capitale": "Berlin"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Andorre",
+		"Capitale": "Andorre la Vieille"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Angola",
+		"Capitale": "Luanda"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Antigua et Barbuda",
+		"Capitale": "Saint John's"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Arabie Saoudite",
+		"Capitale": "Riyad"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Argentine",
+		"Capitale": "Buenos Aires"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Armenie",
+		"Capitale": "Erevan"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Australie",
+		"Capitale": "Canberra"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Autriche",
+		"Capitale": "Vienne"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Azerbaidjan",
+		"Capitale": "Bakou"
+	},
+	{
+		"Lettre": "B",
+		"Pays": "Bahamas",
+		"Capitale": "Nassau"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Bahrein",
+		"Capitale": "Manama"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Bangladesh",
+		"Capitale": "Dacca"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Barbade",
+		"Capitale": "Bridgetown"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Belgique",
+		"Capitale": "Bruxelles"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Belize",
+		"Capitale": "Belmopan"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Benin",
+		"Capitale": "Porto-Novo"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Bouthan",
+		"Capitale": "Thimphou"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Bielarus",
+		"Capitale": "Minsk"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Birmanie /Myanmar",
+		"Capitale": "Naypyidaw"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Bolivie",
+		"Capitale": "La Paz"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Bosnie Herzegovine",
+		"Capitale": "Sarajevo"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Bostswana",
+		"Capitale": "Gaborone"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Bresil",
+		"Capitale": "Brasilia"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Brunei",
+		"Capitale": "Bandar Seri Begawan"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Bulgarie",
+		"Capitale": "Sofia"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Burkina Faso",
+		"Capitale": "Ouagadougou"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Burundi",
+		"Capitale": "Bujumbura"
+	},
+	{
+		"Lettre": "C",
+		"Pays": "Cambodge",
+		"Capitale": "Phnom Penh"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Cameroun",
+		"Capitale": "Yaounde"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Canada",
+		"Capitale": "Ottawa"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Cap Vert",
+		"Capitale": "Praia"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Centrafique",
+		"Capitale": "Bangui"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Chili",
+		"Capitale": "Santiago"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Chine",
+		"Capitale": "Pekin"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Chypre",
+		"Capitale": "Nicosie"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Colombie",
+		"Capitale": "Bogota"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Comores",
+		"Capitale": "Moroni"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Republic Dm. Congo",
+		"Capitale": "Kinshasa"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Congo",
+		"Capitale": "Brazzaville"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Coree du Nord",
+		"Capitale": "Pyongyang"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Coree du Sud",
+		"Capitale": "Seoul"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Costa Rica",
+		"Capitale": "San Jose"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Cote d'Ivoire",
+		"Capitale": "Abidjan/Yamoussoukro"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Croatie",
+		"Capitale": "Zagreb"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Cuba",
+		"Capitale": "La Havane"
+	},
+	{
+		"Lettre": "D",
+		"Pays": "Danemark",
+		"Capitale": "Copenhague"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Djibouti",
+		"Capitale": "Djibouti"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Rep. Dominicaine",
+		"Capitale": "Saint-Domingue"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Dominique",
+		"Capitale": "Roseaux"
+	},
+	{
+		"Lettre": "E",
+		"Pays": "Egypte",
+		"Capitale": "Le Caire"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Emirats arabes unis",
+		"Capitale": "Abou Dhabi"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Equateur",
+		"Capitale": "Quito"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Erythree",
+		"Capitale": "Asmara"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Espagne",
+		"Capitale": "Madrid"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Estonie",
+		"Capitale": "Talinn"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Etats-Unis",
+		"Capitale": "Washington"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Ethiopie",
+		"Capitale": "Addis Abeba"
+	},
+	{
+		"Lettre": "F",
+		"Pays": "Fidji (iles)",
+		"Capitale": "Suva"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Finlande",
+		"Capitale": "Helsinki"
+	},
+	{
+		"Lettre": "",
+		"Pays": "France",
+		"Capitale": "Paris"
+	},
+	{
+		"Lettre": "G",
+		"Pays": "Gabon",
+		"Capitale": "Libreville"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Gambie",
+		"Capitale": "Banjul"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Georgie",
+		"Capitale": "Tblissi"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Ghana",
+        "Capitale": "Accra"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Grece",
+		"Capitale": "Athenes"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Grenade",
+		"Capitale": "Saint-George"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Guatemala",
+		"Capitale": "Guatemala"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Guinee",
+		"Capitale": "Conakry"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Guinee Bissau",
+        "Capitale": "Bissau"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Guinee Equatoriale",
+		"Capitale": "Malabo"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Guyane",
+		"Capitale": "Georgetown"
+	},
+	{
+		"Lettre": "H",
+		"Pays": "Haiti",
+		"Capitale": "Port au prince"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Honduras",
+		"Capitale": "Tegucigalpa"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Hongrie",
+        "Capitale": "Budapest"
+	},
+	{
+		"Lettre": "I",
+		"Pays": "Inde",
+		"Capitale": "New Delhi"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Indonesie",
+		"Capitale": "Jakarta"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Irak",
+		"Capitale": "Bagdad"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Iran",
+		"Capitale": "Teheran"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Irlande",
+		"Capitale": "Dublin"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Islande",
+		"Capitale": "Reykjavik"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Israel",
+		"Capitale": "Jerusalem/Tel Aviv"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Italie",
+		"Capitale": "Rome"
+	},
+	{
+		"Lettre": "J",
+		"Pays": "Jamaique",
+		"Capitale": "Kingston"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Japon",
+		"Capitale": "Tokyo"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Jordanie",
+		"Capitale": "Amman"
+	},
+	{
+		"Lettre": "K",
+		"Pays": "Kazakhstan",
+		"Capitale": "Astana"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Kenya",
+		"Capitale": "Nairobi"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Kirghizstan",
+		"Capitale": "Bichkek"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Kiribati",
+		"Capitale": "Tarawa-sud"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Koweit",
+		"Capitale": "Koweit"
+	},
+	{
+		"Lettre": "L",
+		"Pays": "Laos",
+		"Capitale": "Vientiane"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Lesotho",
+		"Capitale": "Maseru"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Lettonie",
+		"Capitale": "Riga"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Liban",
+		"Capitale": "Beyrouth"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Liberia",
+		"Capitale": "Monrovia"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Libye",
+        "Capitale": "Tripoli"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Liechtenstein",
+		"Capitale": "Vaduz"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Lituanie",
+		"Capitale": "Vilnius"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Luxembourg",
+		"Capitale": "Luxembourg"
+	},
+	{
+		"Lettre": "M",
+		"Pays": "Macedoine",
+		"Capitale": "Skopje"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Madagascar",
+        "Capitale": "Antananarivo"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Malaisie",
+		"Capitale": "Kuala Lumpur"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Malawi",
+		"Capitale": "Lilongwe"
+	},
+	{
+		"Lettre": "",
+        "Pays": "Maldive",
+        "Capitale": "Male"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Mali",
+		"Capitale": "Bamako"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Malte",
+		"Capitale": "La Valette"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Maroc",
+		"Capitale": "Rabat"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Marshall (iles)",
+		"Capitale": "Dalap Uliga Darrit"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Maurice ",
+		"Capitale": "Port-Louis"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Mauritanie",
+		"Capitale": "Nouakchott"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Mexique",
+		"Capitale": "Mexico"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Micronesie",
+		"Capitale": "Palikir"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Moldavie",
+		"Capitale": "Chisinau"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Monaco",
+		"Capitale": "Monaco"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Mongolie",
+		"Capitale": "Oulan Bator"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Montenegro",
+		"Capitale": "Podgorica"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Mozambique",
+        "Capitale": "Maputo"
+	},
+	{
+		"Lettre": "N",
+		"Pays": "Namibie",
+		"Capitale": "Windhoek"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Nauru",
+		"Capitale": "Yaren"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Nepal",
+		"Capitale": "Katmandou"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Nicaragua",
+		"Capitale": "Managua"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Niger",
+		"Capitale": "Niamey"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Nigeria",
+		"Capitale": "Abuja"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Norvege",
+		"Capitale": "Oslo"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Nouvelle-Zelande",
+		"Capitale": "Wellington"
+	},
+	{
+		"Lettre": "O",
+		"Pays": "Oman",
+		"Capitale": "Mascate"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Ouganda",
+		"Capitale": "Kampala"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Ouzbekistan",
+		"Capitale": "Tashkent"
+	},
+	{
+		"Lettre": "P",
+		"Pays": "Pakistan",
+		"Capitale": "Islamabad"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Palaos",
+		"Capitale": "Melekeok"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Palestine",
+		"Capitale": "Ramallah"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Panama ",
+		"Capitale": "Panama"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Papouasie, N. Guinee",
+		"Capitale": "Port Moresby"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Paraguay",
+		"Capitale": "Asuncion"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Pays-Bas",
+		"Capitale": "Amsterdam"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Perou",
+		"Capitale": "Lima"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Philippines ",
+		"Capitale": "Manille"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Pologne",
+		"Capitale": "Varsovie"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Portugal",
+		"Capitale": "Lisbonne"
+	},
+	{
+		"Lettre": "Q",
+		"Pays": "Qatar",
+		"Capitale": "Doha"
+	},
+	{
+		"Lettre": "R",
+		"Pays": "Roumanie",
+		"Capitale": "Buccarest"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Royaume-Uni",
+		"Capitale": "Londres"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Russie",
+		"Capitale": "Moscou"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Rwanda",
+		"Capitale": "Kigali"
+	},
+	{
+		"Lettre": "S",
+		"Pays": "St Christophe & Nieves",
+		"Capitale": "Basseterre"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Sainte Lucie",
+		"Capitale": "Castries"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Saint Marin",
+		"Capitale": "Saint Marin"
+	},
+	{
+		"Lettre": "",
+		"Pays": "St Vincent & Grenadines",
+		"Capitale": "Kingstown"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Salomon (iles)",
+		"Capitale": "Honiara"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Salvador",
+		"Capitale": "San Salvador"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Samoa (iles)",
+		"Capitale": "Apia"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Sao Tome & Principe",
+		"Capitale": "Sao Tome"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Senegal",
+		"Capitale": "Dakar"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Serbie",
+		"Capitale": "Belgrade"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Seychelles",
+		"Capitale": "Victoria"
+	},
+	{
+        "Lettre": "",
+		"Pays": "Sieara Leone",
+		"Capitale": "FreeTown"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Singapour",
+		"Capitale": "Singapour"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Slovaquie",
+		"Capitale": "Bratislava"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Slovenie",
+		"Capitale": "Ljubljana"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Somalie",
+		"Capitale": "Mogadiscio"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Soudan",
+		"Capitale": "Khartoum"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Soudan Sud",
+		"Capitale": "Juba"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Sri Lanka",
+		"Capitale": "Sri Jayawardenapura Kotte"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Suede",
+		"Capitale": "Stockholm"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Suisse",
+		"Capitale": "Berne"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Suriname",
+		"Capitale": "Paramaribo"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Swaziland",
+		"Capitale": "Mbabane"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Syrie",
+		"Capitale": "Damas"
+	},
+	{
+		"Lettre": "T",
+		"Pays": "Tadjikistan",
+		"Capitale": "Duchanbe"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Tanzanie",
+		"Capitale": "Dodoma"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Tchad",
+		"Capitale": "Ndjamena"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Tcheque (republique)",
+		"Capitale": "Prague"
+	},
+	
+	{
+		"Lettre": "",
+		"Pays": "Timor Oriental",
+		"Capitale": "Dili"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Togo",
+		"Capitale": "Lome"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Tonga",
+		"Capitale": "Nuku Alofa"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Trinite et Tobago",
+		"Capitale": "Port d'Espagne"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Tunisie",
+		"Capitale": "Tunis"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Turkmenistan",
+		"Capitale": "Ashgabat"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Turquie",
+		"Capitale": "Ankara"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Tuvalu (iles)",
+		"Capitale": "Funafuti"
+	},
+	{
+		"Lettre": "U",
+		"Pays": "Ukraine",
+		"Capitale": "Kiev"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Uruguay",
+		"Capitale": "Montevideo"
+	},
+	{
+		"Lettre": "V",
+		"Pays": "Vanuatu",
+		"Capitale": "Port-Vila"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Vatican",
+		"Capitale": "Vatican "
+	},
+	{
+		"Lettre": "",
+		"Pays": "Venezuela",
+        "Capitale": "Caracas"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Vietnam",
+		"Capitale": "Hanoi"
+	},
+	{
+		"Lettre": "Y",
+		"Pays": "Yemen",
+		"Capitale": "Sanaa"
+	},
+	{
+		"Lettre": "Z",
+		"Pays": "Zambie",
+		"Capitale": "Lusaka"
+	},
+	{
+		"Lettre": "",
+		"Pays": "Zimbabwe",
+		"Capitale": "Harare"
+	}
+]
