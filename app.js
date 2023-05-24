@@ -4,10 +4,11 @@ let capital1;
 let capital2;
 let capital3;
 let capital4;
-
 const totalQuestions = 10;// Nombre total de questions dans le quiz
 let currentQuestion = 0; // Index de la question actuelle
+
 // On limitte le quizz a 10 question
+
 function generateQuizz() {
   if (currentQuestion >= totalQuestions) {
     return endQuizz();
@@ -22,8 +23,10 @@ function checkAnswer(event) {
 //Si capital1 (La bonne réponce) est égal a la réponce sélectionner +1 correctAnswer
   if (capital1 === event.target.innerText) {
         correctAnswer++;
-    }
-    generateQuizz();
+        generateQuizz();
+      } else {
+        falseAnswer();
+      }
 }
 
 //On génère 4 id différent entre 1 et 194
@@ -86,9 +89,34 @@ fetch('pays.json')
     .catch(error => {
       console.error('Erreur :', error);
     });
+  }
+
+
+//Bouton pour comencer le quiz
+const startButton = document.getElementById('btn-start');
+ startButton.addEventListener("click", (event) => {
+      generateQuizz();
+  })
+
+//Partie si répond a une mauvaise réponce
+function falseAnswer() {
+  const container = document.getElementsByClassName('container')[0];
+  container.innerHTML = '';
+
+  const helpAnswer = document.createElement("p");
+  helpAnswer.innerHTML = `<h1>Pays : ${pays}<h1> <br>Dommage, La bonne réponce est ${capital1}`
+  container.appendChild(helpAnswer);
+
+ const nextQuizz = document.createElement("button");
+  nextQuizz.innerText = `Continuer`;
+    container.appendChild(nextQuizz);
+    nextQuizz.id = "btn-restart"
+      nextQuizz.addEventListener("click", (event) => {
+          generateQuizz();
+      })
 }
 
-//Création du bouton du quiz
+//Création des boutons du quiz
 function createButton(text, onClick) {
   const button = document.createElement("button");
   button.innerText = text;
@@ -97,12 +125,8 @@ function createButton(text, onClick) {
   return button;
 }
 
-//Bouton pour comencer le quiz
-const startButton = document.getElementById('btn-start');
-startButton.addEventListener("click", (event) => {
-    generateQuizz();
-})
 
+//Partie résultat du quiz
 function endQuizz() {
   const container = document.getElementsByClassName('container')[0];
   container.innerHTML = '';
@@ -111,7 +135,6 @@ function endQuizz() {
   endAnswer.innerText = `Votre score final est de ${correctAnswer}/10`
   endAnswer.classList.add("endScores");
   container.appendChild(endAnswer);
-
  
     const endResult = document.createElement("h3");
     container.appendChild(endResult);
@@ -125,8 +148,8 @@ function endQuizz() {
       endResult.innerHTML = `<i class="fa-solid fa-face-laugh-beam"></i>`
     }
 
-  
-  let restartQuizz = document.createElement("button");
+//Bouton relancer une partie  
+  const restartQuizz = document.createElement("button");
     restartQuizz.innerText = `Rejouer`;
     restartQuizz.id = "btn-restart"
     container.appendChild(restartQuizz);
